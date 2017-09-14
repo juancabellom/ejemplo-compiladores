@@ -1,4 +1,4 @@
-
+//Compara dos numeros y devuelves si es mayos, menor, igual
  #include <iostream> 
  
  using std::cout; 
