@@ -1,13 +1,9 @@
 //Compara dos numeros y devuelves si es mayos, menor, igual
  #include <iostream> 
- 
- using std::cout; 
- using std::cin; 
- using std::endl; 
- 
+  using namespace std; 
   
- int main()
-  {
+ main()
+{
   int numero1; 
   int numero2; 
  
@@ -28,8 +24,6 @@
  
   if ( numero1 <= numero2 )
   cout << numero1 << " <= " << numero2 << endl;
-int numero1; 
-int numero2; 
 if ( numero1 == numero2 )
  cout << numero1 << " == " << numero2 << endl;
   if ( numero1 >= numero2 )
